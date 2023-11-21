@@ -1,0 +1,10 @@
+/Users/rickimoore/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/num_complex-5f6c8f086f88962c.rmeta: /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/lib.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/cast.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/pow.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/complex_float.rs
+
+/Users/rickimoore/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/libnum_complex-5f6c8f086f88962c.rlib: /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/lib.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/cast.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/pow.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/complex_float.rs
+
+/Users/rickimoore/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/num_complex-5f6c8f086f88962c.d: /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/lib.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/cast.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/pow.rs /Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/complex_float.rs
+
+/Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/lib.rs:
+/Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/cast.rs:
+/Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/pow.rs:
+/Users/rickimoore/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.4/src/complex_float.rs:
